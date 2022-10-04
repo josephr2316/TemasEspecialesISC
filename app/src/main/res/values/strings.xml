@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My first App</string>
+    <string name="digite_un_nombre">Digite un nombre...</string>
+    <string name="digite_un_apellido">Digite un apellido...</string>
+    <string name="genero">Genero:</string>
+    <string name="nacimiento">Nacimiento:</string>
+    <string name="etDate">00/00/0000</string>
+    <string name="gustaPro">¿A usted le gusta programar?</string>
+    <string name="send">Enviar</string>
+    <string name="clear">Limpiar</string>
+    <string name="tvLanguage">Lenguaje:</string>
+    <string name="rbYes">Si</string>
+    <string name="rbNo">No</string>
+    <string-array name="string_nacimiento">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+</resources>
